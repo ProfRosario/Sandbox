@@ -9,17 +9,18 @@ Successfully created a test branch.
 
 
 
-This is a practice sandbox project and it's to test the clone, push and pull features.
+This is a practice sandbox project to clone, push and pull files from Github
 
-* I cloned this repository and then try to push it back.
-* I copy the public SSH key to GitHub.  
-* I was able to sucessfully pulled the repo from GitHub using SHH key. 
+* I cloned this repository and then pushed it back.
+* I copied the public SSH key to GitHub.  
+* I sucessfully pulled the repo from GitHub using SHH key. 
 * I editted the readme.md file and successfully pushed it back the Github using SSH key.
+* I corrected some grammar errors.
 
 
 # Testing Markdown Codes here.
 
-If you're still confuse and need help, [google][Google] to find more information about pull an push to the repositort. 
+If you're confused and need more help, go to [Google][Google] to search for more information on how to pull an push files to Github. 
 
 
 [Google]:<https://www.google.com>
